@@ -1,0 +1,68 @@
+.navbar {
+    background-color: #001E44;
+}
+
+.navbar-brand {
+  color: white;
+ font-family: "roboto-slab", serif;
+font-weight: 300;
+font-style: normal;
+    font-size: 40px;
+}
+
+.nav-link {
+  font-family: "roboto-condensed", sans-serif;
+font-weight: 300;
+font-style: normal;
+    color: white;
+    font-size: 35px;
+}
+
+.nav-link:hover, .navbar-brand:hover {
+    color: white;
+}
+
+.navbar-toggler {
+    color: white;
+    background-color: white;
+}
+
+.hero-section {
+    margin-top: 10%;
+    padding: 5rem 0;
+    color: #001E44;
+    background-color: rgb(255, 255, 255,0.5);
+}
+
+.hero-section h1 {
+     font-family: "roboto-slab", serif;
+font-weight: 300;
+font-style: normal;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    color: #001E44;
+}
+
+.hero-section .lead {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #001E44;
+}
+
+.hero-image img {
+    transition: transform 0.3s ease;
+}
+
+.hero-image img:hover {
+    transform: scale(1.02);
+}
+
+.btn {
+    background-color: #001E44;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #001E44;
+    color: white;
+}
