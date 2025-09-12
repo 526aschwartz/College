@@ -44,7 +44,7 @@ font-style: normal;
 }
 
 .hero-section .lead {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     margin-bottom: 1.5rem;
     color: #001E44;
 }
@@ -57,12 +57,12 @@ font-style: normal;
     transform: scale(1.02);
 }
 
-.btn {
+.homepage {
     background-color: #001E44;
     color: white;
 }
 
-.btn:hover {
+.homepage:hover {
     background-color: #001E44;
     color: white;
 }
