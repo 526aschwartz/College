@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     grid.innerHTML = '';
     list.forEach((p, index) => {
       const col = document.createElement('div');
-      col.className = 'col-6 col-lg-2';
+      col.className = 'col-4 mb-3';
 
       col.innerHTML = `
         <div class="card h-100 shadow-sm">
