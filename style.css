@@ -70,3 +70,27 @@ font-style: normal;
     background-color: #001E44;
     color: white;
 }
+
+  .hero-section-table .container > .row > div {
+    padding: 15px; /* margin inside the div */
+  }
+
+  .hero-section-table table {
+    width: 100%;        /* table fills the div */
+    border-collapse: collapse;
+    box-sizing: border-box;
+  }
+
+  /* Optional: add some cell padding for readability */
+ .hero-section-table table th,
+ .hero-section-table table td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+  }
+
+  .hero-section-table {
+        margin-top: 10%;
+    padding: 5rem 0;
+    color: #001E44;
+    background-color: rgb(255, 255, 255,0.5);
+  }
