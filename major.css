@@ -20,14 +20,15 @@
 
 .card {
   border: 2px solid black;
-  width: 321px;
+  width: 400px;
   border-radius: 10px;
 }
 
 
 .card-img-top {
-  width: 320px;
-  height: 213px;
+  width: 396px;
+  height: 313px;
+  border: 3px solid black;
 }
 
 .small {
@@ -45,7 +46,7 @@ color: black;
   font-weight: 700;
   font-style: normal;
   text-align: center;
-  font-size: 60px;
+  font-size: 70px;
   color: white;
 }
 
