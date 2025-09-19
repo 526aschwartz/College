@@ -567,7 +567,7 @@ font-style: normal;
 
 
 .school{
-  height: 150px;
+  height: 180px;
   width: 300px;
 }
 
@@ -576,10 +576,11 @@ div [class^="col-"]{
   padding-right:5px;
 }
 .card{
-    height: 400px;
+    height: 450px;
   transition:0.5s;
   cursor:pointer;
   padding: 10px;
+  background-color: #cbdcff;
 }
 .card-title{  
   font-size:30px;

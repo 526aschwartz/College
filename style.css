@@ -86,11 +86,12 @@ font-style: normal;
  .hero-section-table table td {
     padding: 8px 12px;
     border: 1px solid #ddd;
+    color: white;
   }
 
   .hero-section-table {
         margin-top: 10%;
     padding: 5rem 0;
     color: #001E44;
-    background-color: rgb(255, 255, 255,0.5);
+    background-color: rgba(255, 255, 255, 0.5);
   }
