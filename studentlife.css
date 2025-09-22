@@ -1,27 +1,36 @@
   .event1 {
-    font-size: 30px;
-    background-color: #FFD9F1;
-    padding: 4px;
+    font-size: 29px;
+    background-color: #001E44;
+    padding: 6px;
      font-family: "roboto-slab", serif;
 font-weight: 500;
 font-style: normal;
+color: white;
+margin: 5px;
   }
   
   .event2 {
-    font-size: 30px;
-    background-color: #FFD9F1;
-    padding: 4px;
+    font-size: 27px;
+    background-color: #001E44;
+    padding: 5px;
      font-family: "roboto-slab", serif;
 font-weight: 500;
 font-style: normal;
+color: white;
 
   }
   
   .event3 {
-    font-size: 30px;
-    background-color: #FFD9F1;
-    padding: 4px;
+    font-size: 32px;
+    background-color: #001E44;
+    padding: 8px;
+    margin: 5px;
      font-family: "roboto-slab", serif;
 font-weight: 500;
 font-style: normal;
+color: white;
   }
+
+  .photo {
+  margin-bottom: 15px;
+}
