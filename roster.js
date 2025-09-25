@@ -5,10 +5,10 @@ document.addEventListener('DOMContentLoaded', () => {
     grid.innerHTML = '';
     list.forEach((p, index) => {
       const col = document.createElement('div');
-      col.className = 'col-4 mb-3';
+      col.className = 'col-lg-4 col-md-6 col-sm-12';
 
       col.innerHTML = `
-        <div class="card h-100 shadow-sm">
+        <div class="card h-100 shadow-sm ">
           <img src="${p.photo}" alt="${p.firstName}" class="card-img-top">
           <div class="card-body text-center">
             <h5 class="card-title mb-1">${p.firstName} </h5>
